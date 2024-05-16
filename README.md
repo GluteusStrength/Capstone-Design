@@ -1,2 +1,3 @@
 # Capstone-Design
-Recommendation System based on Graph Neural Network
+도서 추천 시스템(Graph Neural Network)
+- Model: LightGCN
